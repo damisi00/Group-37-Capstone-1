@@ -1,0 +1,16 @@
+{
+  "name": "group-37-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "node": "npm start",
+    "dev": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Group 37",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
