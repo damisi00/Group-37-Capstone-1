@@ -1,4 +1,6 @@
 # Group-37-Capstone-1
-NodeJs
+To test:
  npm start
-npm run dev
+ npm run dev
+  
+http://127.0.0.1:5037
